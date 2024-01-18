@@ -1,6 +1,6 @@
 👋 Hello, I'm Anuar!
 
-🌐 Frontend Developer | Data Scientist 🎨
+🌐 FullStack Developer
 
 👨‍💻 About Me:
 I'm a passionate frontend developer with a flair for creating visually appealing and user-friendly web applications. With a keen eye for design and a love for clean, efficient code, I strive to craft seamless digital experiences that leave a lasting impression.
