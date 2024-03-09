@@ -17,7 +17,7 @@ I'm a passionate frontend developer with a flair for creating visually appealing
 - Proficient in SQL, I also enjoy diving into the world of data, leveraging SQL to extract valuable insights from databases and craft efficient queries.
 
 🛠️ Tech Stack:
-- Frontend: HTML5, CSS3, JavaScript (ES6+), GoLang, React, Vue.js
+- Frontend: HTML5, CSS3, JavaScript, GoLang, React, Node.js
 - Version Control: Git, GitHub
 - Database: SQL (MySQL, PostgreSQL)
 - Tools: VS Code, Adobe Creative Suite, Figma
