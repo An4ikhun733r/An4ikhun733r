@@ -3,23 +3,22 @@
 🌐 FullStack Developer
 
 👨‍💻 About Me:
-I'm a passionate frontend developer with a flair for creating visually appealing and user-friendly web applications. With a keen eye for design and a love for clean, efficient code, I strive to craft seamless digital experiences that leave a lasting impression.
+I'm a passionate FullStack developer with a flair for creating visually appealing and user-friendly web applications. With a keen eye for design and a love for clean, efficient code, I strive to craft seamless digital experiences that leave a lasting impression.
 
 💼 Education:
 - Nazarbayev University - Student
 
 
 🚀 What I Do:
-- Develop stunning and responsive web interfaces using the latest frontend technologies like HTML5, CSS3, and JavaScript.
+- Develop stunning and responsive web interfaces using the latest FullStack technologies.
 - Bring designs to life with meticulous attention to detail, ensuring pixel-perfect implementations.
 - Collaborate closely with designers and back-end developers to create cohesive and intuitive user experiences.
 - Optimize website performance and load times to enhance user satisfaction.
 - Proficient in SQL, I also enjoy diving into the world of data, leveraging SQL to extract valuable insights from databases and craft efficient queries.
 
 🛠️ Tech Stack:
-- Frontend: HTML5, CSS3, JavaScript, GoLang, React, Node.js
+- FullStack: HTML5, CSS3, JavaScript, React, Node.js, Express.js, MongoDB, SQLite, Postgres, GoLang.
 - Version Control: Git, GitHub
-- Database: SQL (MySQL, PostgreSQL)
 - Tools: VS Code, Adobe Creative Suite, Figma
 
 📚 Learning Never Stops:
