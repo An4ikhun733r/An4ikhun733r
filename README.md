@@ -1,34 +1,35 @@
-👋 Hello, I'm Anuar!
+Hi, I'm Anuar Ospanov 👋
+Data Engineer | Big Data Enthusiast | AI and Machine Learning Explorer
 
-🌐 FullStack Developer
+Welcome to my GitHub profile! I'm currently pursuing a Bachelor's in Computer Science at Nazarbayev University and have hands-on experience in building scalable data solutions, working with real-time data streams, and leveraging AI for insightful analytics. Below, you'll find some of the key projects and skills I've developed through my internships and personal projects.
 
-👨‍💻 About Me:
-I'm a passionate FullStack developer with a flair for creating visually appealing and user-friendly web applications. With a keen eye for design and a love for clean, efficient code, I strive to craft seamless digital experiences that leave a lasting impression.
+🔧 Technologies & Tools I Work With:
+Programming Languages: Python, SQL, Bash
+Big Data Tools: Hadoop, Apache Spark, Hive, Apache Kafka
+Cloud Technologies: AWS (S3, Redshift, Glue, Athena, QuickSight)
+Databases: PostgreSQL, Snowflake
+ETL & Workflow Tools: Apache Airflow, Jenkins, dbt (data build tool)
+Machine Learning: TensorFlow, OpenAI GPT-4
+🚀 Featured Projects:
+YouTube Comments AI Analytics
+June 2024 – July 2024
+An advanced ETL solution for extracting and analyzing YouTube comments in real-time using the YouTube Data API. By applying AI-driven sentiment analysis with OpenAI GPT-4, this project helps content creators optimize their strategies based on audience feedback.
+Key Highlights:
 
-💼 Education:
-- Nazarbayev University - Student
+Automated data extraction using Apache Airflow and stored data in PostgreSQL.
+Provided AI-driven insights to enhance content strategies and engagement.
+Real-Time LinkedIn Job Post Streaming
+March 2024 – May 2024
+This project streams LinkedIn job postings in real-time using Kafka and processes the data with AWS services for cloud storage, ETL, and analysis.
+Key Highlights:
 
-
-🚀 What I Do:
-- Develop stunning and responsive web interfaces using the latest FullStack technologies.
-- Bring designs to life with meticulous attention to detail, ensuring pixel-perfect implementations.
-- Collaborate closely with designers and back-end developers to create cohesive and intuitive user experiences.
-- Optimize website performance and load times to enhance user satisfaction.
-- Proficient in SQL, I also enjoy diving into the world of data, leveraging SQL to extract valuable insights from databases and craft efficient queries.
-
-🛠️ Tech Stack:
-- FullStack: HTML5, CSS3, JavaScript, React, Node.js, Express.js, MongoDB, SQLite, Postgres, GoLang.
-- Version Control: Git, GitHub
-- Tools: VS Code, Adobe Creative Suite, Figma
-
-📚 Learning Never Stops:
-I'm a firm believer in continuous learning and staying up-to-date with industry trends. Whether it's experimenting with new JavaScript frameworks or diving deeper into database optimization, I'm always hungry for knowledge.
-
-🌟 Let's Connect:
-I'm open to collaborations, code discussions, and new opportunities. Feel free to reach out if you want to chat about frontend development, SQL, or anything else related to the world of technology. Let's build something amazing together!
-
-📫 Contact Me:
-- Email: anuar.ospanov.prof@gmail.com
-- LinkedIn: linkedin.com/in/anuar-ospanov-325244231
-
-🚀 Thanks for visiting my GitHub! Explore my repositories, and let's make the web a more beautiful and functional place, one line of code at a time. 😊
+Leveraged Kafka for real-time data streaming, handling thousands of job postings.
+Integrated AWS services like S3, Glue, Athena, and QuickSight for end-to-end data processing and visualization.
+🌱 What I'm Learning:
+Currently diving deeper into machine learning techniques with TensorFlow and experimenting with natural language processing using OpenAI models.
+Expanding my knowledge of distributed systems and real-time data processing with Apache Flink.
+🎯 What I'm Working On:
+Building a data pipeline that processes social media data in real-time and applies AI models for sentiment analysis and trend detection.
+Exploring more advanced use cases of streaming data with Kafka Streams and AWS Kinesis.
+✨ Fun Fact:
+I love working on creative data projects that combine AI and analytics to solve real-world problems. When I'm not coding, I enjoy exploring new tech trends and contributing to open-source projects.
